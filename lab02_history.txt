@@ -1,0 +1,6 @@
+*   8afa0a2 Merge pull request #1 from jdtsuchida/feature-bio
+|\  
+| * 9a462de feat: added developer biography to readme
+|/  
+* d6091ce chore: initial project scaffolding and gitignore
+* 1b44292 Initial commit
