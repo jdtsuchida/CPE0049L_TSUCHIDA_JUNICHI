@@ -1,0 +1,3 @@
+ae90a7f Merge pull request #20 from jdtsuchida/feature-user-profile
+a8b93cd feat: added basic profile logic. Resolves #19
+9473790 Merge pull request #18 from jdtsuchida/feature-math-logic
