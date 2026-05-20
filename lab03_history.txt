@@ -1,0 +1,9 @@
+9473790 Merge pull request #18 from jdtsuchida/feature-math-logic
+0458983 fix: resolved filename conflict and moved ci-pipeline to workflows
+6a05c5c fix: corrected add function
+d64c590 test: intentionally breaking code to test CI
+e839f9a ci: added math logic and github actions pipeline
+total 12
+drwxrwxrwx+ 2 vscode vscode 4096 May 15 00:50 .
+drwxrwxrwx+ 3 vscode vscode 4096 May  6 05:16 ..
+-rw-rw-rw-  1 vscode vscode  454 May 15 00:50 ci-pipeline.yml
